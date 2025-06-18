@@ -1,6 +1,6 @@
 "use client";
 import Image from "next/image";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { motion } from "framer-motion";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
@@ -472,7 +472,7 @@ export default function Home() {
                    className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight"
                  >
                    Have an idea?<br />
-                   Let's <motion.span
+                   Lets <motion.span
                      animate={{ 
                        textShadow: ["0 0 0px #06b6d4", "0 0 20px #06b6d4", "0 0 0px #06b6d4"]
                      }}
