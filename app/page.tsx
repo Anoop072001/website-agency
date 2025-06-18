@@ -200,7 +200,7 @@ export default function Home() {
                   title: "John Mayer NYC",
                 },
                 {
-                  img: "/assets/nazyak.png",
+                  img: "/assets/Nazyak.png",
                   title: "Nayzak Patterns",
                 },
                 {
